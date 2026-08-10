@@ -2,9 +2,11 @@
 
 > We have rolled out 3 public facing products, and have already received feedback from the preliminary testers. Defects were found and are being addressed
 
+Our flagship product is Boom Bap Producer Pads, and as such is receiving all the attention behind the scenes. The others have not been publicly shared yet.
+
 ## Ongoing Bug Fix Priorities
 
-- Boom Bap Producer Pads (Priority 1) - ETA 2026-08-09 18:00 Central African Time.
+- Boom Bap Producer Pads (Priority 1) - Hourly fixes now in progress and have gone from v1.2.0 to v1.11.0 in the last few hours.
   - Each new fix will now bump up the release version.
   - Check at 18:00hrs hours each day on the release page for further enhancements and improvements.
 - Boom Bap Producer Decks (Priority 2)
