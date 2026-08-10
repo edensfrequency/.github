@@ -6,7 +6,7 @@ Our flagship product is Boom Bap Producer Pads, and as such is receiving all the
 
 ## Ongoing Bug Fix Priorities
 
-- Boom Bap Producer Pads (Priority 1) - Hourly fixes now in progress and have gone from v1.2.0 to v1.11.0 in the last few hours.
+- Boom Bap Producer Pads (Priority 1) - Hourly fixes now in progress and have gone from v1.2.0 to v1.21.0 in the last few hours.
   - Each new fix will now bump up the release version.
   - Check at 18:00hrs hours each day on the release page for further enhancements and improvements.
 - Boom Bap Producer Decks (Priority 2)
