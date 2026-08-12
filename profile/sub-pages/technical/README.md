@@ -36,6 +36,7 @@ How the products actually get built and shipped, day to day.
 - **[🧪 Development Status](DEVELOPMENT-STATUS.md)** - what's actively being worked on right now
 - **[🔄 Releases](RELEASES.md)** - our release philosophy and where to check for the latest build
 - **[🛠️ Technology](TECHNOLOGY.md)** - the stack behind the products
+- **[🔍 Behind the Scenes](BEHIND-THE-SCENES.md)** - how a build actually gets from source to a release you can download
 
 For what these actually build into, see **[Products](../products/README.md)**. For the bigger picture, see **[About](../ABOUT.md)**.
 
