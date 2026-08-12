@@ -23,7 +23,7 @@
 
 <div align="center">
 
-**[🏠 Home](../README.md)** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
+**[🏠 Home](../README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
 
 </div>
 
@@ -45,7 +45,7 @@ That's not to say African music tech doesn't exist. There's real activity in dis
 
 > **What exists instead, consistently across every search:**
 > - Afroplug, the biggest "Afro music tech" name, is founded by Ms Mavy, who's French-Guadeloupean/Cameroonian and based in Europe, not Africa.
-> - Afrolabs, African House (Ueberschall), DJ Soupamodel's Afrobeats plugin — all sample-pack-style instruments themed around African genres, made by companies in Germany, the US, etc.
+> - Afrolabs, African House (Ueberschall), DJ Soupamodel's Afrobeats plugin, all sample-pack-style instruments themed around African genres, made by companies in Germany, the US, etc.
 > - On the ground in the Southern African region, and elsewhere in Africa, producers exclusively use foreign tools: Cubase, FL Studio, Pro Tools, Reason, plus foreign-made VSTs like Hypersonic. 
 > - Even amapiano's signature log drum sound comes from Fruity DX10, a stock FL Studio plugin made by Image-Line in Belgium.
 
@@ -84,8 +84,14 @@ See the **[full product list](products/README.md)** and the **[technology](techn
 
 ---
 
+## 💡 What Problems Are We Actually Solving?
+
+Not just the mission statement, the practical version: hardware costs, workflow overload, who you can actually reach when something breaks. **[Read the full breakdown →](PROBLEMS-WE-SOLVE.md)**
+
+---
+
 <div align="center">
 
-**[🏠 Home](../README.md)** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
+**[🏠 Home](../README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
 
 </div>

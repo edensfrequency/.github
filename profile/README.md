@@ -23,7 +23,7 @@
 
 <div align="center">
 
-**🏠 Home** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](sub-pages/technical/README.md)** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
+**🏠 Home** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](sub-pages/technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
 
 </div>
 
@@ -35,13 +35,13 @@ EdensFrequency is a small team building music production software: samplers, seq
 
 We spend most of our time on sampling, DJ performance, vocal manipulation, and audio processing, mostly as VST3 plugins that also run standalone.
 
-Want the story behind why? **[Read our direction](sub-pages/ABOUT.md)**
+Want the story behind why? **[Read our direction](sub-pages/ABOUT.md)** or see the **[practical problems we're solving](sub-pages/PROBLEMS-WE-SOLVE.md)**.
 
 ---
 
 ## ℹ️ Terminology
 
-New to this stuff? Our [FAQs](faqs/README.md) cover **[what's a DAW](faqs/WHATS-A-DAW.md)** and **[what's a VST](faqs/WHATS-A-VST.md)** in more detail, but here's the short version: a DAW is the software you make music in, and a VST is a plugin, either an instrument or an effect, that runs inside it. Our products are VST instruments.
+New to this stuff? Our [FAQs](sub-pages/faqs/README.md) cover **[what's a DAW](sub-pages/faqs/WHATS-A-DAW.md)** and **[what's a VST](sub-pages/faqs/WHATS-A-VST.md)** in more detail, but here's the short version: a DAW is the software you make music in, and a VST is a plugin, either an instrument or an effect, that runs inside it. Our products are VST instruments.
 
 ---
 
@@ -63,6 +63,6 @@ Three products are public right now and in active testing. Testers have already 
 
 <div align="center">
 
-**🏠 Home** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](sub-pages/technical/README.md)** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
+**🏠 Home** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](sub-pages/technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
 
 </div>

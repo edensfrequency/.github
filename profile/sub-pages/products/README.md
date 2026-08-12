@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>
 
@@ -48,6 +48,6 @@ For the bigger picture, see **[our direction](../ABOUT.md)**.
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>
