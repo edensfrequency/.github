@@ -1,7 +1,9 @@
-
 <div align="center">
 
-# EDENSFREQUENCY
+![edensfrequency-banner-with-text.png](assets/images/branding/edensfrequency-banner-with-text.png)
+
+---
+<br>
 
 ### Independent Music Technology · Audio Software · Creative Tools
 

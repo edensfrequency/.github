@@ -1,20 +1,12 @@
 <div align="center">
 
-# EDENSFREQUENCY
+![edensfrequency-banner-with-text.png](../../../assets/images/branding/edensfrequency-banner-with-text.png)
 
-### Independent Music Technology · Audio Software · Creative Tools
-
-**Building tools for producers, beatmakers, DJs, samplers and musicians.**
-
-<br>
+---
 
 [![Website](https://img.shields.io/badge/Website-edensfrequency.online-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edensfrequency.online)
 [![GitHub](https://img.shields.io/badge/GitHub-EdensFrequency-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edensfrequency)
 [![Products](https://img.shields.io/badge/Public%20Products-3-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
-
-<br>
-
-> **Make music. Flip samples. Scratch. Experiment. Build.**
 
 </div>
 
