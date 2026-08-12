@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../business/ABOUT.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>
 
@@ -60,6 +60,6 @@ Track fixes on **[🐛 Bugs](../BUGS.md)** and **[🧪 Dev Status](../DEVELOPMEN
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../business/ABOUT.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>

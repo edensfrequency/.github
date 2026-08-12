@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](README.md)** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../business/ABOUT.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](README.md)** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>
 
@@ -57,12 +57,12 @@ Our current development direction includes:
 - Sample manipulation
 - Creative audio interfaces
 
-This stack powers **[Pads](pads/boom-bap-producer-pads.md)**, **[Decks](decks/boom-bap-producer-decks.md)**, and **[Key Sampler](key-sampler/boom-bap-producer-key-sampler.md)** — see **[our direction](../business/ABOUT.md)** for how the products connect.
+This stack powers **[Pads](pads/boom-bap-producer-pads.md)**, **[Decks](decks/boom-bap-producer-decks.md)**, and **[Key Sampler](key-sampler/boom-bap-producer-key-sampler.md)** — see **[our direction](../ABOUT.md)** for how the products connect.
 
 ---
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](README.md)** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../business/ABOUT.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](README.md)** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>
