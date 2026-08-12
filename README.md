@@ -5,3 +5,7 @@
 ---
 
 </div>
+
+# Documentation
+
+- [Mission Control](profile/README.md)
