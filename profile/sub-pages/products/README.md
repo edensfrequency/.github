@@ -52,10 +52,10 @@ We are actively addressing those findings.
 
 Want the details behind the products? These pages track it in real time:
 
-- **[🐛 Bugs](BUGS.md)** — known defects and fix priorities
-- **[🧪 Development Status](DEVELOPMENT-STATUS.md)** — what's actively being worked on
-- **[🔄 Releases](RELEASES.md)** — release philosophy and where to check for updates
-- **[🛠️ Technology](TECHNOLOGY.md)** — the stack behind the products
+- **[🐛 Bugs](BUGS.md)** - known defects and fix priorities
+- **[🧪 Development Status](DEVELOPMENT-STATUS.md)** - what's actively being worked on
+- **[🔄 Releases](RELEASES.md)** - release philosophy and where to check for updates
+- **[🛠️ Technology](TECHNOLOGY.md)** - the stack behind the products
 
 Want the bigger picture? **[Read our direction →](../ABOUT.md)**
 

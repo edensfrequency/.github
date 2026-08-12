@@ -57,7 +57,7 @@ Our current development direction includes:
 - Sample manipulation
 - Creative audio interfaces
 
-This stack powers **[Pads](pads/boom-bap-producer-pads.md)**, **[Decks](decks/boom-bap-producer-decks.md)**, and **[Key Sampler](key-sampler/boom-bap-producer-key-sampler.md)** — see **[our direction](../ABOUT.md)** for how the products connect.
+This stack powers **[Pads](pads/boom-bap-producer-pads.md)**, **[Decks](decks/boom-bap-producer-decks.md)**, and **[Key Sampler](key-sampler/boom-bap-producer-key-sampler.md)** - see **[our direction](../ABOUT.md)** for how the products connect.
 
 ---
 

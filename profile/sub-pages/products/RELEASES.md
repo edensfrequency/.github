@@ -36,7 +36,7 @@ This means testers can easily identify whether they are running an older build o
 
 ### Daily release check
 
-**[Pads](pads/boom-bap-producer-pads.md) — 18:00 CAT**
+**[Pads](pads/boom-bap-producer-pads.md) - 18:00 CAT**
 
 Check the product's **Releases** page at approximately **18:00 Central Africa Time** for the latest build, fixes and improvements.
 

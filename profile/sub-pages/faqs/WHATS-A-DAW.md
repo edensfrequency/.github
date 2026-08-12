@@ -31,11 +31,11 @@
 
 ## 🎚️ What Is a DAW?
 
-A **DAW (Digital Audio Workstation)** is the software producers use to record, edit, arrange, mix and produce music — the workspace everything else plugs into. Ableton Live, FL Studio, Logic Pro, Pro Tools and Reason are all DAWs. Every beat, vocal take, mix and master happens inside one of these.
+A **DAW (Digital Audio Workstation)** is the software producers use to record, edit, arrange, mix and produce music - the workspace everything else plugs into. Ableton Live, FL Studio, Logic Pro, Pro Tools and Reason are all DAWs. Every beat, vocal take, mix and master happens inside one of these.
 
-A DAW on its own is mostly an empty canvas: timeline, mixer, recording engine. What actually makes the sound is the instruments and effects loaded *into* it — which is where VSTs come in. See **[What's a VST?](WHATS-A-VST.md)**
+A DAW on its own is mostly an empty canvas: timeline, mixer, recording engine. What actually makes the sound is the instruments and effects loaded *into* it - which is where VSTs come in. See **[What's a VST?](WHATS-A-VST.md)**
 
-Our products aren't DAWs — they're instruments that load *into* one as VST plugins. Each also runs as a **standalone application**, so you can use them without owning a DAW at all. See **[Pads](../products/pads/boom-bap-producer-pads.md)**, **[Decks](../products/decks/boom-bap-producer-decks.md)** and **[Key Sampler](../products/key-sampler/boom-bap-producer-key-sampler.md)**.
+Our products aren't DAWs - they're instruments that load *into* one as VST plugins. Each also runs as a **standalone application**, so you can use them without owning a DAW at all. See **[Pads](../products/pads/boom-bap-producer-pads.md)**, **[Decks](../products/decks/boom-bap-producer-decks.md)** and **[Key Sampler](../products/key-sampler/boom-bap-producer-key-sampler.md)**.
 
 ---
 
