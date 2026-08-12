@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **🥇 Pads** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](../../technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../../technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../../technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../../technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **🥇 Pads** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../../technical/README.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>
 
@@ -52,7 +52,7 @@ Track fixes on **[🐛 Bugs](../../technical/BUGS.md)** and **[🧪 Dev Status](
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **🥇 Pads** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](../../technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../../technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../../technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../../technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **🥇 Pads** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../../technical/README.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>
 

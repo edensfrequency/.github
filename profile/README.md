@@ -23,7 +23,7 @@
 
 <div align="center">
 
-**🏠 Home** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](sub-pages/technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](sub-pages/technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](sub-pages/technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](sub-pages/technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
+**🏠 Home** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](sub-pages/technical/README.md)** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
 
 </div>
 
@@ -51,12 +51,12 @@ Three products are public right now and in active testing. Testers have already 
 | 🥈 [Boom Bap Producer Decks](sub-pages/products/decks/boom-bap-producer-decks.md) | Turntables · scratching · mixing · performance | `P2` |
 | 🥉 [Boom Bap Producer Key Sampler](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md) | Sampled instruments · key zones · playable sounds | `P3` |
 
-**Project status:** **[🐛 Bugs](sub-pages/technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](sub-pages/technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](sub-pages/technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](sub-pages/technical/TECHNOLOGY.md)**
+**[See project status →](sub-pages/technical/README.md)** for bugs, what's actively being worked on, and our release philosophy.
 
 ---
 
 <div align="center">
 
-**🏠 Home** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](sub-pages/technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](sub-pages/technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](sub-pages/technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](sub-pages/technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
+**🏠 Home** &nbsp;·&nbsp; **[🚀 Products](sub-pages/products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](sub-pages/products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](sub-pages/products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](sub-pages/technical/README.md)** &nbsp;·&nbsp; **[🎯 About](sub-pages/ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](sub-pages/faqs/README.md)**
 
 </div>
