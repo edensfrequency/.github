@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](README.md)** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>
 
@@ -45,12 +45,12 @@ Everything is built in native C++ with the JUCE framework, targeting the VST3 pl
 
 On the audio side that means real-time DSP, MIDI handling, and sample-accurate playback, the stuff that actually matters when you're scratching or chopping something live.
 
-This stack powers **[Pads](pads/boom-bap-producer-pads.md)**, **[Decks](decks/boom-bap-producer-decks.md)**, and **[Key Sampler](key-sampler/boom-bap-producer-key-sampler.md)** - see **[our direction](../ABOUT.md)** for how the products connect.
+This stack powers **[Pads](../products/pads/boom-bap-producer-pads.md)**, **[Decks](../products/decks/boom-bap-producer-decks.md)**, and **[Key Sampler](../products/key-sampler/boom-bap-producer-key-sampler.md)** - see **[our direction](../ABOUT.md)** for how the products connect.
 
 ---
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](README.md)** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](RELEASES.md)** &nbsp;·&nbsp; **🛠️ Technology** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>

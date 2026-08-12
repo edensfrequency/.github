@@ -23,7 +23,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](../products/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../products/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../products/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../products/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](../technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](README.md)**
 
 </div>
 
@@ -39,12 +39,12 @@ Open an issue on the specific product's GitHub repo, not this one. Each product 
 
 A useful bug report includes what you were doing when it happened, what you expected, what actually happened, and which DAW (or standalone) and OS you're on. A crash, an audio glitch, and a UI label that's cut off are all worth reporting, don't assume something's too small to mention.
 
-We're actively fixing things right now, see **[Bugs](../products/BUGS.md)** for current priorities and **[Releases](../products/RELEASES.md)** for how fixes ship.
+We're actively fixing things right now, see **[Bugs](../technical/BUGS.md)** for current priorities and **[Releases](../technical/RELEASES.md)** for how fixes ship.
 
 ---
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](../products/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../products/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../products/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../products/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🐛 Bugs](../technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](README.md)**
 
 </div>

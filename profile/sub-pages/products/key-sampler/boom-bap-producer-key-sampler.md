@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../../technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../../technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../../technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../../technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>
 
@@ -44,12 +44,12 @@ Available as a **VST3 instrument** and as a **standalone application**.
 
 [![Releases](https://img.shields.io/badge/RELEASES-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency/boom-bap-producer-key-sampler/releases)
 
-Track fixes on **[🐛 Bugs](../BUGS.md)** and **[🧪 Dev Status](../DEVELOPMENT-STATUS.md)**.
+Track fixes on **[🐛 Bugs](../../technical/BUGS.md)** and **[🧪 Dev Status](../../technical/DEVELOPMENT-STATUS.md)**.
 
 ---
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🐛 Bugs](../../technical/BUGS.md)** &nbsp;·&nbsp; **[🧪 Dev Status](../../technical/DEVELOPMENT-STATUS.md)** &nbsp;·&nbsp; **[🔄 Releases](../../technical/RELEASES.md)** &nbsp;·&nbsp; **[🛠️ Technology](../../technical/TECHNOLOGY.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>
