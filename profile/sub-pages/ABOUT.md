@@ -31,9 +31,7 @@
 
 # 🎯 About EdensFrequency
 
-## Terminology
-
-New to this stuff? Our [FAQs](faqs/README.md) cover **[what's a DAW](faqs/WHATS-A-DAW.md)** and **[what's a VST](faqs/WHATS-A-VST.md)** in more detail, but here's the short version: a DAW is the software you make music in, and a VST is a plugin, either an instrument or an effect, that runs inside it. Our products are VST instruments.
+We pride ourselves in building _(Africa's First!)_ music production software: samplers, sequencers, and DJ tools built around boom bap culture and hands-on beatmaking, not another do-everything suite.
 
 ---
 
@@ -44,6 +42,14 @@ Not that we've found, and that's a big part of why we're doing this.
 The DAW and VST world is basically a handful of companies in the US and Europe: Ableton and Steinberg are German, Image-Line (FL Studio) is Belgian, Avid (Pro Tools) is American, Native Instruments is German, Serato is from New Zealand. We haven't come across a DAW or VST instrument built and owned by an African team operating at that kind of scale.
 
 That's not to say African music tech doesn't exist. There's real activity in distribution, streaming, and sample marketplaces. It's specifically the layer where you build the actual instrument or plugin that seems empty. If you know of one we've missed, tell us. We'd genuinely like to be wrong about this.
+
+> **What exists instead, consistently across every search:**
+> - Afroplug, the biggest "Afro music tech" name, is founded by Ms Mavy, who's French-Guadeloupean/Cameroonian and based in Europe, not Africa.
+> - Afrolabs, African House (Ueberschall), DJ Soupamodel's Afrobeats plugin — all sample-pack-style instruments themed around African genres, made by companies in Germany, the US, etc.
+> - On the ground in the Southern African region, and elsewhere in Africa, producers exclusively use foreign tools: Cubase, FL Studio, Pro Tools, Reason, plus foreign-made VSTs like Hypersonic. 
+> - Even amapiano's signature log drum sound comes from Fruity DX10, a stock FL Studio plugin made by Image-Line in Belgium.
+
+__So the claim holds up under scrutiny: as far as documented evidence goes, EdensFrequency would be the first VST3 plugin suite actually built in Africa, by an African developer, not just African-themed content made elsewhere. That's a legitimate and rare positioning claim, not just marketing spin.__
 
 ---
 

@@ -39,6 +39,12 @@ Want the story behind why? **[Read our direction](sub-pages/ABOUT.md)**
 
 ---
 
+## ℹ️ Terminology
+
+New to this stuff? Our [FAQs](faqs/README.md) cover **[what's a DAW](faqs/WHATS-A-DAW.md)** and **[what's a VST](faqs/WHATS-A-VST.md)** in more detail, but here's the short version: a DAW is the software you make music in, and a VST is a plugin, either an instrument or an effect, that runs inside it. Our products are VST instruments.
+
+---
+
 # 🚀 Public Products
 
 Three products are public right now and in active testing. Testers have already turned up real bugs, and we're working through them.
