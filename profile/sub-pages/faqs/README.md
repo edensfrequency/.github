@@ -31,8 +31,19 @@
 
 # ❓ Frequently Asked Questions
 
+### Getting started
+
 - **[What's a DAW?](WHATS-A-DAW.md)** - the software you produce music in
 - **[What's a VST?](WHATS-A-VST.md)** - the plugin format our instruments use
+- **[What's the difference between Pads, Decks, and Key Sampler?](PADS-VS-DECKS-VS-KEYS.md)** - which one you actually want
+- **[What's "boom bap"?](WHATS-BOOM-BAP.md)** - where the name comes from
+
+### Using the products
+
+- **[How do I install a plugin?](HOW-DO-I-INSTALL.md)** - VST3 or standalone, step by step
+- **[What DAWs and operating systems are supported?](SUPPORTED-DAWS.md)** - Windows, Reason, FL Studio, Ableton Live
+- **[Is it free? Can I use it commercially?](IS-IT-FREE.md)** - yes, with a few limits
+- **[I found a bug, how do I report it?](REPORTING-BUGS.md)** - where issues actually get tracked
 
 For why we're building this and where African music tech fits in, see **[About](../ABOUT.md)**.
 
