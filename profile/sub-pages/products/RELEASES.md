@@ -30,15 +30,13 @@
 
 # 🔄 Release Philosophy
 
-Every meaningful bug fix will result in a new release version.
-
-This means testers can easily identify whether they are running an older build or the latest corrected version.
+Every real bug fix gets its own release, so you can always tell whether you're running an old build or the latest fix.
 
 ### Daily release check
 
-**[Pads](pads/boom-bap-producer-pads.md) - 18:00 CAT**
+**[Pads](pads/boom-bap-producer-pads.md) - around 18:00 CAT**
 
-Check the product's **Releases** page at approximately **18:00 Central Africa Time** for the latest build, fixes and improvements.
+Check the Releases page around 18:00 Central Africa Time for the latest build.
 
 See also: **[🐛 Bugs](BUGS.md)** for what each release is fixing, and **[🧪 Dev Status](DEVELOPMENT-STATUS.md)** for what's next.
 
@@ -50,4 +48,4 @@ See also: **[🐛 Bugs](BUGS.md)** for what each release is fixing, and **[🧪 
 
 </div>
 
-> New fixes → New version → New release notes
+> Fix something, cut a new version, write down what changed.

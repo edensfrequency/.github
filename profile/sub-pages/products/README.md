@@ -30,34 +30,24 @@
 
 # 🚀 Public Products
 
-Our first three public-facing products are now available for testing.
+Three products are public right now and in active testing. Testers have already turned up real bugs, and we're working through them.
 
-They have already been placed in the hands of preliminary testers, and **real-world feedback has identified defects and areas for improvement**.
-
-We are actively addressing those findings.
-
-- 🥇 Boom Bap Producer Pads
-   - MPC-style sampling · sequencing · performance
-   - Repo [Boom Bap Producer Pads](pads/boom-bap-producer-pads.md)
-- 🥈 Boom Bap Producer Decks
-    - Turntables · scratching · mixing · performance
-    - Repo [Boom Bap Producer Decks](decks/boom-bap-producer-decks.md)
-- 🥉 Boom Bap Producer Key Sampler
-    - Sampled instruments · key zones · playable sounds
-    - Repo [Boom Bap Producer Key Sampler](key-sampler/boom-bap-producer-key-sampler.md)
+- 🥇 [Boom Bap Producer Pads](pads/boom-bap-producer-pads.md) - MPC-style sampling, sequencing, and performance
+- 🥈 [Boom Bap Producer Decks](decks/boom-bap-producer-decks.md) - turntables, scratching, and mixing
+- 🥉 [Boom Bap Producer Key Sampler](key-sampler/boom-bap-producer-key-sampler.md) - sampled instruments and playable key zones
 
 ---
 
 ## 📋 Project Status
 
-Want the details behind the products? These pages track it in real time:
+These pages track things as they happen:
 
 - **[🐛 Bugs](BUGS.md)** - known defects and fix priorities
 - **[🧪 Development Status](DEVELOPMENT-STATUS.md)** - what's actively being worked on
-- **[🔄 Releases](RELEASES.md)** - release philosophy and where to check for updates
+- **[🔄 Releases](RELEASES.md)** - our release philosophy and where to check for updates
 - **[🛠️ Technology](TECHNOLOGY.md)** - the stack behind the products
 
-Want the bigger picture? **[Read our direction →](../ABOUT.md)**
+For the bigger picture, see **[our direction](../ABOUT.md)**.
 
 ---
 

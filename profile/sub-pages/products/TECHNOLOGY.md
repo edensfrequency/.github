@@ -30,7 +30,7 @@
 
 # 🛠️ Technology
 
-Our software development focuses heavily on native and cross-platform technologies.
+Everything is built in native C++ with the JUCE framework, targeting the VST3 plugin standard plus standalone builds. Python and Laravel handle tooling and the web side of things.
 
 <div align="center">
 
@@ -43,19 +43,7 @@ Our software development focuses heavily on native and cross-platform technologi
 
 </div>
 
-Our current development direction includes:
-
-- Native C++
-- JUCE
-- VST3
-- Standalone audio applications
-- Real-time audio processing
-- MIDI
-- DSP
-- Cross-platform application development
-- Audio file processing
-- Sample manipulation
-- Creative audio interfaces
+On the audio side that means real-time DSP, MIDI handling, and sample-accurate playback, the stuff that actually matters when you're scratching or chopping something live.
 
 This stack powers **[Pads](pads/boom-bap-producer-pads.md)**, **[Decks](decks/boom-bap-producer-decks.md)**, and **[Key Sampler](key-sampler/boom-bap-producer-key-sampler.md)** - see **[our direction](../ABOUT.md)** for how the products connect.
 

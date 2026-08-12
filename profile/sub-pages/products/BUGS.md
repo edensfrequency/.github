@@ -30,21 +30,13 @@
 
 # Bugs
 
----
+> We've rolled out 3 public products and already have feedback from early testers. We found defects, and we're fixing them.
 
-> **Note:** We have rolled out 3 public facing products, and have already received feedback from the preliminary testers. Defects were found and are being addressed
-
----
-
-Our flagship product is Boom Bap Producer Pads, and as such is receiving all the attention behind the scenes. The others have not been publicly shared yet.
-
----
+Pads is our flagship, so it's getting most of the attention right now.
 
 ## Ongoing Bug Fix Priorities
 
-- [Boom Bap Producer Pads](pads/boom-bap-producer-pads.md) (Priority 1) - Hourly fixes now in progress and have gone from v1.2.0 to v1.21.0 in the last few hours.
-    - Each new fix will now bump up the release version.
-    - Check at 18:00hrs hours each day on the [release page](RELEASES.md) for further enhancements and improvements.
+- [Boom Bap Producer Pads](pads/boom-bap-producer-pads.md) (Priority 1) - hourly fixes in progress, up from v1.2.0 to v1.21.0 in the last few hours. Every fix bumps the release version, so check the [release page](RELEASES.md) around 18:00 CAT each day for the latest build.
 - [Boom Bap Producer Decks](decks/boom-bap-producer-decks.md) (Priority 2)
 - [Boom Bap Producer Keys](key-sampler/boom-bap-producer-key-sampler.md) (Priority 3)
 

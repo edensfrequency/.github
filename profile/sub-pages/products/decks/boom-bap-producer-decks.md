@@ -32,17 +32,7 @@
 
 ### Turntables · scratching · mixing · performance
 
-A dual-deck DJ / scratch instrument built around hands-on manipulation of audio.
-
-Designed with particular attention to:
-
-- 🎧 Scratching
-- 💿 Turntable-style workflows
-- 🎚️ Dual-deck mixing
-- 🔄 Audio manipulation
-- 🎤 Vocal performance
-- 🧬 Stem-oriented workflows
-- ⚡ Live experimentation
+A dual-deck DJ and scratch instrument built for hands-on manipulation: scratching, turntable-style play, live mixing between two decks, and stem-based tricks for vocal work.
 
 Available as a **VST3 instrument** and as a **standalone application**.
 

@@ -32,17 +32,7 @@
 
 ### Sampled instruments · key zones · playable sounds
 
-A multi-sample keyboard / key-zone sampler for turning audio material into playable instruments.
-
-Designed to work with:
-
-- 🎹 Key-mapped samples
-- 🎵 Multi-sampled instruments
-- 🔊 WAV audio
-- 🎚️ Multiple zones
-- 🎛️ Sound design
-- 💾 Instrument creation
-- ⚡ Fast experimentation
+A multi-sample keyboard and key-zone sampler for turning your own audio into a playable instrument: map WAV samples across zones, shape the sound, and play it back from a keyboard.
 
 Available as a **VST3 instrument** and as a **standalone application**.
 

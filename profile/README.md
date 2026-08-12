@@ -31,37 +31,19 @@
 
 ## 🎛️ What We're Building
 
-EdensFrequency is an independent music technology group focused on creating practical software for modern music production.
+EdensFrequency is a small team building music production software: samplers, sequencers, and DJ tools built around boom bap culture and hands-on beatmaking, not another do-everything suite.
 
-Our tools are designed around the way producers actually work:
+We spend most of our time on sampling, DJ performance, vocal manipulation, and audio processing, mostly as VST3 plugins that also run standalone.
 
-**Find → Sample → Chop → Play → Scratch → Arrange → Create**
-
-We're particularly interested in the intersection of:
-
-- 🎚️ Music production
-- 🎹 Sampling
-- 🎧 DJ performance
-- 💿 Boom bap culture
-- 🎤 Vocal manipulation
-- 🎛️ Audio processing
-- 🧩 Creative software
-- ⚙️ VST / standalone instruments
-- 💻 Cross-platform music technology
-
-Curious how the products fit together? **[Read our direction →](sub-pages/ABOUT.md)**
+Want the story behind why? **[Read our direction](sub-pages/ABOUT.md)**
 
 ---
 
 # 🚀 Public Products
 
-Our first three public-facing products are now available for testing.
+Three products are public right now and in active testing. Testers have already turned up real bugs, and we're working through them.
 
-They have already been placed in the hands of preliminary testers, and **real-world feedback has identified areas for improvement**.
-
-We are actively addressing those findings.
-
-**[See our full product list →](sub-pages/products/README.md)**
+**[See the full product list →](sub-pages/products/README.md)**
 
 | Product | Focus | Priority |
 |---|---|:---:|

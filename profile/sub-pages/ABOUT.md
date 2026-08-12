@@ -33,46 +33,27 @@
 
 ## Terminology
 
-New to music production terminology? 
-
-Start with 
-- **[What's a DAW?](faqs/WHATS-A-DAW.md)** and 
-- **[What's a VST?](faqs/WHATS-A-VST.md)** 
-- as well as our [FAQs](faqs/README.md) 
-
-The short answers are: 
-- a DAW (Digital Audio Workstation) is the software you produce music in, 
-- and a VST is a plugin (instrument or effect) that runs inside it. 
-
-Our products are VST instruments.
+New to this stuff? Our [FAQs](faqs/README.md) cover **[what's a DAW](faqs/WHATS-A-DAW.md)** and **[what's a VST](faqs/WHATS-A-VST.md)** in more detail, but here's the short version: a DAW is the software you make music in, and a VST is a plugin, either an instrument or an effect, that runs inside it. Our products are VST instruments.
 
 ---
 
 ## 🌍 Are There African Products Like This?
 
-Not many that we're aware of, and that gap is a big part of why we're doing this.
+Not that we've found, and that's a big part of why we're doing this.
 
-The DAW and VST-instrument space is dominated almost entirely by companies based in the US and Europe: 
-- Ableton (Germany), 
-- Steinberg (Germany), 
-- Image-Line / FL Studio (Belgium), 
-- Avid / Pro Tools (US), 
-- Native Instruments (Germany), 
-- Serato (New Zealand). 
+The DAW and VST world is basically a handful of companies in the US and Europe: Ableton and Steinberg are German, Image-Line (FL Studio) is Belgian, Avid (Pro Tools) is American, Native Instruments is German, Serato is from New Zealand. We haven't come across a DAW or VST instrument built and owned by an African team operating at that kind of scale.
 
-We're not aware of a widely-used, actively-maintained VST instrument or DAW that's built and owned by an African team at that kind of scale.
-
-That's not a knock on African music tech generally - there's real activity in adjacent spaces (distribution, streaming, sample marketplaces). It's specifically the "build the actual instrument/plugin" layer of the stack that's underrepresented. If you know of an African-built DAW or VST company we've missed, we'd genuinely like to hear about it.
+That's not to say African music tech doesn't exist. There's real activity in distribution, streaming, and sample marketplaces. It's specifically the layer where you build the actual instrument or plugin that seems empty. If you know of one we've missed, tell us. We'd genuinely like to be wrong about this.
 
 ---
 
 ## 🚀 What We're Trying to Achieve
 
-We're not trying to build another generic collection of plugins.
+We're not trying to build another generic pile of plugins.
 
-The goal is to develop a **connected ecosystem of practical creative tools** built locally, and prove that serious audio software doesn't have to come from the same handful of countries every time. 
+The plan is a **connected ecosystem of practical creative tools**, built locally, that proves serious audio software doesn't have to come from the same handful of countries every time.
 
-Our current target market is producers, DJs, and musicians within the Southern African region and the continent at large.
+We're building for producers, DJs, and musicians in Southern Africa first, and the wider continent from there.
 
 ```text
                     EDENSFREQUENCY
@@ -91,11 +72,7 @@ Our current target market is producers, DJs, and musicians within the Southern A
                      MUSIC STUDIO
 ```
 
-Three of these are already public and in active testing:
-
-- 🥇 **[Boom Bap Producer Pads](products/pads/boom-bap-producer-pads.md)** - the PADS branch
-- 🥈 **[Boom Bap Producer Decks](products/decks/boom-bap-producer-decks.md)** - the DECKS branch
-- 🥉 **[Boom Bap Producer Key Sampler](products/key-sampler/boom-bap-producer-key-sampler.md)** - the KEYS branch
+Three products are public and in active testing already: **[Pads](products/pads/boom-bap-producer-pads.md)**, **[Decks](products/decks/boom-bap-producer-decks.md)**, and **[Key Sampler](products/key-sampler/boom-bap-producer-key-sampler.md)**.
 
 See the **[full product list](products/README.md)** and the **[technology](products/TECHNOLOGY.md)** behind them.
 

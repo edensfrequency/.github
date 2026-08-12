@@ -32,11 +32,7 @@
 
 > ### ⚠️ Active Development & Testing
 
-The first public product release cycle is currently underway.
-
-We have already received feedback from preliminary testers and identified defects across the products.
-
-Rather than treating the initial release as "finished", we're using this stage to **stabilise, refine and improve the software based on actual usage**.
+We're in our first public release cycle. Testers have already found defects across all three products, and instead of treating this release as "finished," we're using it to fix what actual usage turns up.
 
 ### Current priority queue
 

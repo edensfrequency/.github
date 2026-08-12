@@ -32,17 +32,9 @@
 
 ### MPC-style sampling · sequencing · performance
 
-A pad-grid sampler/sequencer instrument designed for beatmakers who want a fast, hands-on workflow.
+A pad-grid sampler and sequencer for beatmakers who want a fast, hands-on workflow: trigger samples, chop breaks, and sequence a beat straight from the pads.
 
-**Designed for:**
-
-- Sample triggering
-- Beat production
-- Pad performance
-- Sequencing
-- Chop-based workflows
-- VST host environments
-- Standalone use
+Runs inside a VST3 host or on its own as a standalone app.
 
 **Status:** 🔧 Active Bug Fixing
 

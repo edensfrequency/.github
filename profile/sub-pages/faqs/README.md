@@ -31,12 +31,10 @@
 
 # ❓ Frequently Asked Questions
 
-New to music production, or new to what we're building? Start here.
-
 - **[What's a DAW?](WHATS-A-DAW.md)** - the software you produce music in
 - **[What's a VST?](WHATS-A-VST.md)** - the plugin format our instruments use
 
-For the bigger picture - why we're building this, and where African music tech fits in - see **[About](../ABOUT.md)**.
+For why we're building this and where African music tech fits in, see **[About](../ABOUT.md)**.
 
 ---
 
