@@ -26,7 +26,7 @@ We get asked this a lot, so here's the honest version instead of a mission-state
 
 ## 🎛️ Hardware Costs Money You Might Not Have
 
-A real MPC, a set of turntables and a mixer, a rack of samplers, that's real money before you've made a single beat. Even second-hand gear gets marked up once it has to be imported into Southern Africa, and shipping times and import duties make "just order it" a lot less simple than it sounds from the US or Europe. Pads, Decks and Key Sampler give you the actual workflows, sampling, sequencing, scratching, mapping samples across a keyboard, on a computer you probably already own.
+A real hardware sampler, a set of turntables and a mixer, a rack of samplers, that's real money before you've made a single beat. Even second-hand gear gets marked up once it has to be imported into Southern Africa, and shipping times and import duties make "just order it" a lot less simple than it sounds from the US or Europe. Pads, Decks and Key Sampler give you the actual workflows, sampling, sequencing, scratching, mapping samples across a keyboard, on a computer you probably already own.
 
 ## 🧩 One Tool, One Job, No Giant DAW Required
 

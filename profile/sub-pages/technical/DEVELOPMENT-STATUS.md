@@ -36,6 +36,27 @@ We're in our first public release cycle, still adding features and polish as rea
 
 See also: **[🐛 Bugs](BUGS.md)** for what's been found and fixed, and **[🔄 Releases](RELEASES.md)** for how fixes ship.
 
+### What's coming up
+
+Not scheduled or dated, just the real backlog - what's actually being considered next, not a promise of when.
+
+**Pads:**
+- macOS build (Logic Pro support)
+- Recording straight into a pad from a live input, not just from your sample library
+- A light theme option, alongside the current dark interface
+- Rearrangeable, dockable panels instead of the current fixed-tab layout
+- Fuller keyboard navigation and screen-reader support across every control
+- Multi-language interface support
+
+**Decks:**
+- True pitch-independent time-stretching (today's pitch control resamples, it doesn't stretch)
+- Offline stem export as a step toward live solo/mute per stem
+- Vocal-focused tools: an isolator, phrase finder, and pitch-preserving formant shifting
+- Per-deck output routing
+- macOS build
+
+Key Sampler doesn't have near-term work queued beyond bug fixes as they come up.
+
 ---
 
 <div align="center">

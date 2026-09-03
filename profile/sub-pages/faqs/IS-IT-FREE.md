@@ -33,6 +33,8 @@ A few things the license doesn't cover:
 
 We're still an early, actively-tested project, so treat these as the current terms rather than a permanent promise. If you need something outside normal personal or commercial use, reach out directly instead of assuming.
 
+The full terms live in each product's own repo: [Pads](https://github.com/edensfrequency/boom-bap-producer-pads/blob/main/LICENSE.md), [Decks](https://github.com/edensfrequency/boom-bap-producer-decks/blob/main/LICENSE.md), [Key Sampler](https://github.com/edensfrequency/boom-bap-producer-key-sampler/blob/main/LICENSE.md).
+
 ---
 
 <div align="center">

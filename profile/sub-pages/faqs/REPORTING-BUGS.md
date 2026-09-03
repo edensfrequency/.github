@@ -30,7 +30,7 @@ Open an issue on the specific product's GitHub repo, not this one. Each product 
 
 A useful bug report includes what you were doing when it happened, what you expected, what actually happened, and which DAW (or standalone) and OS you're on. A crash, an audio glitch, and a UI label that's cut off are all worth reporting, don't assume something's too small to mention.
 
-We're actively fixing things right now, see **[Bugs](../technical/BUGS.md)** for current priorities and **[Releases](../technical/RELEASES.md)** for how fixes ship.
+See **[Bugs](../technical/BUGS.md)** for what's already been found and fixed, and **[Releases](../technical/RELEASES.md)** for how fixes ship.
 
 ---
 

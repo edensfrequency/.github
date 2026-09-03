@@ -22,7 +22,7 @@
 
 ## 🥇 Boom Bap Producer Pads
 
-### MPC-style sampling · sequencing · performance
+### Pad-grid sampling · sequencing · performance
 
 A pad-grid sampler and sequencer for beatmakers who want a fast, hands-on workflow: trigger samples, chop breaks, and sequence a beat straight from the pads.
 

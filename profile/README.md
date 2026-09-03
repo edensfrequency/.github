@@ -55,7 +55,7 @@ Three products are public right now and in active testing. Testers have already 
 
 | Product | Focus | Priority |
 |---|---|:---:|
-| 🥇 [Boom Bap Producer Pads](sub-pages/products/pads/boom-bap-producer-pads.md) | MPC-style sampling · sequencing · performance | `P1` |
+| 🥇 [Boom Bap Producer Pads](sub-pages/products/pads/boom-bap-producer-pads.md) | Pad-grid sampling · sequencing · performance | `P1` |
 | 🥈 [Boom Bap Producer Decks](sub-pages/products/decks/boom-bap-producer-decks.md) | Turntables · scratching · mixing · performance | `P2` |
 | 🥉 [Boom Bap Producer Key Sampler](sub-pages/products/key-sampler/boom-bap-producer-key-sampler.md) | Sampled instruments · key zones · playable sounds | `P3` |
 

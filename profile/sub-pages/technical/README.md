@@ -24,7 +24,7 @@
 
 How the products actually get built and shipped, day to day.
 
-- **[🐛 Bugs](BUGS.md)** - known defects and current fix priorities
+- **[🐛 Bugs](BUGS.md)** - what testers have found, and what's been fixed
 - **[🧪 Development Status](DEVELOPMENT-STATUS.md)** - what's actively being worked on right now
 - **[🔄 Releases](RELEASES.md)** - our release philosophy and where to check for the latest build
 - **[🛠️ Technology](TECHNOLOGY.md)** - the stack behind the products
