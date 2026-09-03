@@ -28,9 +28,7 @@ A multi-sample keyboard and key-zone sampler for turning your own audio into a p
 
 Available as a **VST3 instrument** and as a **standalone application**.
 
-**Status:** 🔧 Active Bug Fixing
-
-**Priority:** `P3`
+**Status:** Stable - `v0.2.0`, no changes needed since its last release
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/edensfrequency/boom-bap-producer-key-sampler)
 

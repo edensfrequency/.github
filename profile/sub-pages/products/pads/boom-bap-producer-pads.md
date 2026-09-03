@@ -26,13 +26,11 @@
 
 A pad-grid sampler and sequencer for beatmakers who want a fast, hands-on workflow: trigger samples, chop breaks, and sequence a beat straight from the pads.
 
-Runs inside a VST3 host or on its own as a standalone app.
+Runs inside a VST3 or CLAP host, or on its own as a standalone app. Also has a one-click Windows installer - see [how do I install](../../faqs/HOW-DO-I-INSTALL.md) for details.
 
-**Status:** 🔧 Active Bug Fixing
+**Status:** 🔧 Active development - our flagship, updated most days
 
-**Priority:** `P1`
-
-**Next scheduled target:** `2026-08-09 · 18:00 CAT`
+**Current version:** `v1.109.0`
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/edensfrequency/boom-bap-producer-pads)
 

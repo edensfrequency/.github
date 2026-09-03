@@ -49,7 +49,7 @@ New to this stuff? Our [FAQs](sub-pages/faqs/README.md) cover **[what's a DAW](s
 
 # 🚀 Public Products
 
-Three products are public right now and in active testing. Testers have already turned up real bugs, and we're working through them.
+Three products are public right now and in active testing. Testers have already turned up real bugs - 21 of them resolved in Pads alone since our last update, with more fixes shipping daily. See the [Bugs page](sub-pages/technical/BUGS.md) for what's been found and fixed.
 
 **[See the full product list →](sub-pages/products/README.md)**
 

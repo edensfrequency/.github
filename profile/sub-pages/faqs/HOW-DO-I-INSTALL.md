@@ -22,13 +22,17 @@
 
 ## 📥 How Do I Install a Plugin?
 
-Every product here installs the same way, whether it's [Pads](../products/pads/boom-bap-producer-pads.md), [Decks](../products/decks/boom-bap-producer-decks.md), or [Key Sampler](../products/key-sampler/boom-bap-producer-key-sampler.md).
+The manual steps below work the same way for all three products - [Pads](../products/pads/boom-bap-producer-pads.md), [Decks](../products/decks/boom-bap-producer-decks.md), and [Key Sampler](../products/key-sampler/boom-bap-producer-key-sampler.md).
 
-### As a VST3 plugin (inside a DAW)
+### Recommended for Pads: the installer
+
+Pads now ships a Windows installer - download `BoomBapProducerPadsSetup-X.Y.Z.exe` from its [Releases page](https://github.com/edensfrequency/boom-bap-producer-pads/releases) and run it. It installs both the VST3 and the standalone app for you, no manual copying needed, and it never touches your presets or settings, even when reinstalling over an existing version. Decks and Key Sampler don't have an installer yet - use the manual steps below for those.
+
+### As a VST3 or CLAP plugin (inside a DAW), manually
 
 1. Go to the product's GitHub page and open its **Releases** tab.
-2. Download the `.vst3.zip` file from the latest release and unzip it.
-3. Copy the whole `.vst3` folder into your system's VST3 folder: `C:\Program Files\Common Files\VST3\`.
+2. Download the `.vst3.zip` file from the latest release and unzip it (Pads also offers a `.clap.zip` if your host supports CLAP instead of VST3).
+3. Copy the whole `.vst3` (or `.clap`) folder/file into your system's plugin folder: `C:\Program Files\Common Files\VST3\` for VST3, `C:\Program Files\Common Files\CLAP\` for CLAP.
 4. Rescan plugins in your DAW (Options/Preferences → Plug-Ins → rescan). The name shows up under Generators or Instruments.
 
 If a previous version was already loaded in an open project, close and reopen the DAW, or remove and re-add the plugin, so it doesn't keep the old binary in memory.

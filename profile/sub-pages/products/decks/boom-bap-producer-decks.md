@@ -28,9 +28,7 @@ A dual-deck DJ and scratch instrument built for hands-on manipulation: scratchin
 
 Available as a **VST3 instrument** and as a **standalone application**.
 
-**Status:** 🔧 Active Bug Fixing
-
-**Priority:** `P2`
+**Status:** Stable - `v0.4.0`, no changes needed since its last release
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/edensfrequency/boom-bap-producer-decks)
 

@@ -22,17 +22,35 @@
 
 # Bugs
 
-> We've rolled out 3 public products and already have feedback from early testers. We found defects, and we're fixing them.
+> We shipped 3 public products and got real feedback from early testers. Every bug that's come up so far has been found and fixed.
 
-Pads is our flagship, so it's getting most of the attention right now.
+## Fixed Since Last Update (2026-08-12 - 2026-09-02)
 
-## Ongoing Bug Fix Priorities
+All of the below is from Pads (v1.32.0 through v1.109.0) - Decks (still v0.4.0) and Keys (still v0.2.0) had no releases in this window, so nothing to report there. Full detail for any of these lives in each version's entry on the [release page](RELEASES.md).
 
-- [Boom Bap Producer Pads](../products/pads/boom-bap-producer-pads.md) (Priority 1) - hourly fixes in progress, up from v1.2.0 to v1.21.0 in the last few hours. Every fix bumps the release version, so check the [release page](RELEASES.md) around 18:00 CAT each day for the latest build.
-- [Boom Bap Producer Decks](../products/decks/boom-bap-producer-decks.md) (Priority 2)
-- [Boom Bap Producer Keys](../products/key-sampler/boom-bap-producer-key-sampler.md) (Priority 3)
+- Presets could forget the first row of pads when reloaded - fixed
+- Live-Record didn't respond when the plugin was loaded in a DAW unless you also pressed the DAW's own transport play button - it now works as soon as you arm it and start hitting pads
+- Presets could break if you later deleted their original sample files - saving a preset now copies every sample it uses into its own data folder alongside it
+- Trim Silence now shows up under Undo - previously it couldn't be undone at all
+- Growing the plugin window taller now actually gives the pad grid, sample editor, and DSP panel more room, instead of just adding empty space at the bottom
+- A rebuild wasn't always picked up by the installed plugin - fixed at the build-system level
+- The DISCOVER tab's YouTube embed wasn't loading on some systems and showed a confusing script error - it now plays properly, with a graceful fallback message on systems where it still can't load
+- The plugin window was too large by default and didn't fit properly in some DAWs - it now opens at half its previous size and resizes freely in either direction
+- Check for Updates was silently checking the wrong location and never finding anything - fixed
+- The 5 new Insert FX types could revert to the wrong effect after saving/reloading a project - fixed
+- Some toolbar controls (BPM, Metronome) were rendering too small to use at certain window sizes - fixed
+- The Saturation (Console) effect had gone missing from the per-pad Insert FX menu - restored
+- Resizing the plugin by dragging one edge could distort its proportions - it now always keeps its shape
+- The keyboard strip at the bottom could leave an empty gap on the right at some window sizes - fixed
+- A brief window-proportions regression was reverted - the toolbar is back to 2 compact rows instead of 1 very wide one
+- The BASS tab was leaving a lot of empty space below its controls - it now fills the space it's actually given
+- Turntable Vinyl Sim settings (Wow/Flutter, Vinyl Noise, Saturation, Motor Ramp) were silently resetting to off on reload instead of saving with the project - fixed
+- Humanize was ignoring a pad's Favorite protection and couldn't be undone, unlike every other pattern-changing button - fixed
+- Several TURNTABLE tab layout bugs, worst in 2-Decks mode (clipped control rail, truncated buttons, a squashed platter/rail split) - the tab now stays usable and fully visible at any window size
+- A window-resize sizing bug could let the toolbar's tab buttons overlap or spill off-screen at small window sizes - fixed
+- Bank-to-bank copy wasn't refreshing the pad grid when pasting into the bank you were currently viewing - fixed
 
-See also: **[🧪 Development Status](DEVELOPMENT-STATUS.md)** for what's actively being worked on.
+Pads gets the most frequent updates since it's our flagship - check the [release page](RELEASES.md) around 18:00 CAT most days for the latest build. See **[🧪 Development Status](DEVELOPMENT-STATUS.md)** for what's currently being worked on.
 
 ---
 

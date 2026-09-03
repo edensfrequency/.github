@@ -22,19 +22,19 @@
 
 # 🧪 Development Status
 
-> ### ⚠️ Active Development & Testing
+> ### First Public Release Cycle
 
-We're in our first public release cycle. Testers have already found defects across all three products, and instead of treating this release as "finished," we're using it to fix what actual usage turns up.
+We're in our first public release cycle, still adding features and polish as real usage turns things up. Every bug found so far has been fixed - see **[🐛 Bugs](BUGS.md)** for the list.
 
-### Current priority queue
+### Where development attention is going
 
-| Priority | Product | Status | Focus |
-|:---:|---|:---:|---|
-| **P1** | [Boom Bap Producer Pads](../products/pads/boom-bap-producer-pads.md) | 🔧 Active | Critical fixes & improvements |
-| **P2** | [Boom Bap Producer Decks](../products/decks/boom-bap-producer-decks.md) | 🔧 Active | Stability & defect resolution |
-| **P3** | [Boom Bap Producer Keys](../products/key-sampler/boom-bap-producer-key-sampler.md) | 🔧 Active | Stability & defect resolution |
+| Product | Status | Focus |
+|---|:---:|---|
+| [Boom Bap Producer Pads](../products/pads/boom-bap-producer-pads.md) | 🔧 Active | Our flagship - new features and daily polish |
+| [Boom Bap Producer Decks](../products/decks/boom-bap-producer-decks.md) | Stable | No changes needed since its last release |
+| [Boom Bap Producer Keys](../products/key-sampler/boom-bap-producer-key-sampler.md) | Stable | No changes needed since its last release |
 
-See also: **[🐛 Bugs](BUGS.md)** for the specific defects being tracked, and **[🔄 Releases](RELEASES.md)** for how fixes ship.
+See also: **[🐛 Bugs](BUGS.md)** for what's been found and fixed, and **[🔄 Releases](RELEASES.md)** for how fixes ship.
 
 ---
 

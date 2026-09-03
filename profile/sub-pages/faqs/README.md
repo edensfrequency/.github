@@ -26,6 +26,7 @@
 
 - **[What's a DAW?](WHATS-A-DAW.md)** - the software you produce music in
 - **[What's a VST?](WHATS-A-VST.md)** - the plugin format our instruments use
+- **[The history of VST plugins](VST-PLUGIN-HISTORY.md)** - VST, VST2, VST3, and where CLAP fits in
 - **[What's the difference between Pads, Decks, and Key Sampler?](PADS-VS-DECKS-VS-KEYS.md)** - which one you actually want
 - **[What's "boom bap"?](WHATS-BOOM-BAP.md)** - where the name comes from
 
