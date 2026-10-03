@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-edensfrequency.online-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edensfrequency.online)
 [![GitHub](https://img.shields.io/badge/GitHub-EdensFrequency-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edensfrequency)
-[![Products](https://img.shields.io/badge/Public%20Products-3-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
+[![Products](https://img.shields.io/badge/Public%20Products-1-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**[🏠 Home](../README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
+**[🏠 Home](../README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
 
 </div>
 
@@ -48,7 +48,7 @@ __So the claim holds up under scrutiny: as far as documented evidence goes, Eden
 
 We're not trying to build another generic pile of plugins.
 
-The plan is a **connected ecosystem of practical creative tools**, built locally, that proves serious audio software doesn't have to come from the same handful of countries every time.
+The plan was a **connected ecosystem of practical creative tools**, built locally, that proves serious audio software doesn't have to come from the same handful of countries every time. The best connection turned out to be one plugin: everything now lives in **Boom Bap Producer Pads**.
 
 We're building for producers, DJs, and musicians in Southern Africa first, and the wider continent from there.
 
@@ -59,17 +59,18 @@ We're building for producers, DJs, and musicians in Southern Africa first, and t
              │            │            │
            SAMPLE       CREATE       PERFORM
              │            │            │
-          ┌──┴──┐      ┌──┴──┐      ┌──┴──┐
-          │     │      │     │      │     │
-        CRATES PADS    KEYS  DRUMS  DECKS DJ
-          │     │      │     │      │     │
-          └─────┴──────┴─────┴──────┴─────┘
-                          │
+        CRATES · PADS  KEYS · SYNTH  DECKS · MIXER
+        STEMS · CHOPS  BASS · SEQ    ARRANGE
+             │            │            │
+             └────────────┼────────────┘
                           ▼
-                     MUSIC STUDIO
+               BOOM BAP PRODUCER PADS
+                  one plugin, free
 ```
 
-Three products are public and in active testing already: **[Pads](products/pads/boom-bap-producer-pads.md)**, **[Decks](products/decks/boom-bap-producer-decks.md)**, and **[Key Sampler](products/key-sampler/boom-bap-producer-key-sampler.md)**.
+It stays free to our users. Other people now make similar products to sell; that doesn't change our objective or our values.
+
+**[Decks](products/decks/boom-bap-producer-decks.md)** and **[Key Sampler](products/key-sampler/boom-bap-producer-key-sampler.md)** were our first separate products; they're discontinued now and their features are part of **[Pads](products/pads/boom-bap-producer-pads.md)**. See **[what moved where](ONE-PRODUCT.md)**.
 
 See the **[full product list](products/README.md)** and the **[technology](technical/TECHNOLOGY.md)** behind them.
 
@@ -83,6 +84,6 @@ Not just the mission statement, the practical version: hardware costs, workflow 
 
 <div align="center">
 
-**[🏠 Home](../README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
+**[🏠 Home](../README.md)** &nbsp;·&nbsp; **🎯 About** &nbsp;·&nbsp; **[🚀 Products](products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](faqs/README.md)**
 
 </div>

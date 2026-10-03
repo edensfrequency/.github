@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-edensfrequency.online-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edensfrequency.online)
 [![GitHub](https://img.shields.io/badge/GitHub-EdensFrequency-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edensfrequency)
-[![Products](https://img.shields.io/badge/Public%20Products-3-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
+[![Products](https://img.shields.io/badge/Public%20Products-1-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
 
 </div>
 
@@ -14,19 +14,22 @@
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](../ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>
 
 ---
 
-# 🚀 Public Products
+# 🚀 Our Product
 
-Three products are public right now and in active testing. Testers have already turned up real bugs - 21 of them resolved in Pads alone since our last update, with more fixes shipping daily. See the [Bugs page](../technical/BUGS.md) for what's been found and fixed.
+- 🥇 [Boom Bap Producer Pads](pads/boom-bap-producer-pads.md) - pads, sequencer, turntables, stems, keys, synth, bass, mixer and arranger in one plugin. Free, and in active development.
 
-- 🥇 [Boom Bap Producer Pads](pads/boom-bap-producer-pads.md) - Pad-grid sampling, sequencing, and performance
-- 🥈 [Boom Bap Producer Decks](decks/boom-bap-producer-decks.md) - turntables, scratching, and mixing
-- 🥉 [Boom Bap Producer Key Sampler](key-sampler/boom-bap-producer-key-sampler.md) - sampled instruments and playable key zones
+## Discontinued
+
+These two were folded into Pads (**[what moved where](../ONE-PRODUCT.md)**). Their repos and last releases stay up, but they won't get updates.
+
+- [Boom Bap Producer Decks](decks/boom-bap-producer-decks.md) - now the TURNTABLE tab in Pads
+- [Boom Bap Producer Key Sampler](key-sampler/boom-bap-producer-key-sampler.md) - now the keyboard and SYNTH in Pads
 
 ---
 
@@ -40,6 +43,6 @@ For the bigger picture, see **[our direction](../ABOUT.md)**.
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **🚀 Products** &nbsp;·&nbsp; **[🥇 Pads](pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](../ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../faqs/README.md)**
 
 </div>

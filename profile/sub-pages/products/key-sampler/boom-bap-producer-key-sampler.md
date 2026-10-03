@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-edensfrequency.online-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edensfrequency.online)
 [![GitHub](https://img.shields.io/badge/GitHub-EdensFrequency-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edensfrequency)
-[![Products](https://img.shields.io/badge/Public%20Products-3-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
+[![Products](https://img.shields.io/badge/Public%20Products-1-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🔧 Technical](../../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](../../ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](../../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>
 
@@ -22,13 +22,15 @@
 
 ## 🥉 Boom Bap Producer Keys
 
+> **Discontinued.** What Key Sampler did now lives in **[Boom Bap Producer Pads](../pads/boom-bap-producer-pads.md)**: any pad plays across the keyboard, and SYNTH turns any sound into a wavetable. This repo and its last release stay up, but won't get updates. **[Why →](../../ONE-PRODUCT.md)**
+
 ### Sampled instruments · key zones · playable sounds
 
 A multi-sample keyboard and key-zone sampler for turning your own audio into a playable instrument: map WAV samples across zones, shape the sound, and play it back from a keyboard.
 
 Available as a **VST3 instrument** and as a **standalone application**.
 
-**Status:** Stable - `v0.2.0`, no changes needed since its last release
+**Status:** Discontinued - last release `v0.2.0`; it continues as the keyboard and SYNTH in Pads
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/edensfrequency/boom-bap-producer-key-sampler)
 
@@ -40,6 +42,6 @@ Track fixes on **[🐛 Bugs](../../technical/BUGS.md)** and **[🧪 Dev Status](
 
 <div align="center">
 
-**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **🥉 Keys** &nbsp;·&nbsp; **[🔧 Technical](../../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
+**[🏠 Home](../../../README.md)** &nbsp;·&nbsp; **[🎯 About](../../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../README.md)** &nbsp;·&nbsp; **[🥇 Pads](../pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](../../ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](../../technical/README.md)** &nbsp;·&nbsp; **[❓ FAQs](../../faqs/README.md)**
 
 </div>

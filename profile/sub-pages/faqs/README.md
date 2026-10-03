@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-edensfrequency.online-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edensfrequency.online)
 [![GitHub](https://img.shields.io/badge/GitHub-EdensFrequency-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edensfrequency)
-[![Products](https://img.shields.io/badge/Public%20Products-3-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
+[![Products](https://img.shields.io/badge/Public%20Products-1-8B5CF6?style=for-the-badge)](https://github.com/edensfrequency)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **❓ FAQs**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](../ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **❓ FAQs**
 
 </div>
 
@@ -27,7 +27,7 @@
 - **[What's a DAW?](WHATS-A-DAW.md)** - the software you produce music in
 - **[What's a VST?](WHATS-A-VST.md)** - the plugin format our instruments use
 - **[The history of VST plugins](VST-PLUGIN-HISTORY.md)** - VST, VST2, VST3, and where CLAP fits in
-- **[What's the difference between Pads, Decks, and Key Sampler?](PADS-VS-DECKS-VS-KEYS.md)** - which one you actually want
+- **[Pads, Decks, or Key Sampler?](PADS-VS-DECKS-VS-KEYS.md)** - Pads: the other two are part of it now
 - **[What's "boom bap"?](WHATS-BOOM-BAP.md)** - where the name comes from
 
 ### Using the products
@@ -43,6 +43,6 @@ For why we're building this and where African music tech fits in, see **[About](
 
 <div align="center">
 
-**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[🥈 Decks](../products/decks/boom-bap-producer-decks.md)** &nbsp;·&nbsp; **[🥉 Keys](../products/key-sampler/boom-bap-producer-key-sampler.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **❓ FAQs**
+**[🏠 Home](../../README.md)** &nbsp;·&nbsp; **[🎯 About](../ABOUT.md)** &nbsp;·&nbsp; **[🚀 Products](../products/README.md)** &nbsp;·&nbsp; **[🥇 Pads](../products/pads/boom-bap-producer-pads.md)** &nbsp;·&nbsp; **[📣 One Product](../ONE-PRODUCT.md)** &nbsp;·&nbsp; **[🔧 Technical](../technical/README.md)** &nbsp;·&nbsp; **❓ FAQs**
 
 </div>
